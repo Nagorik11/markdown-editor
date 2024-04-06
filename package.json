@@ -1,0 +1,28 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "Markdown editor for taking notes in a web ui",
+  "main": "public/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagorik11/markdown_editor.git"
+  },
+  "keywords": [
+    "md"
+  ],
+  "author": "Fernando Valenzuela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nagorik11/markdown_editor/issues"
+  },
+  "homepage": "https://github.com/Nagorik11/markdown_editor#readme",
+  "dependencies": {
+    "astro": "^4.5.16",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
